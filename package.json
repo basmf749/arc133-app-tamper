@@ -1,0 +1,8 @@
+{
+  "name": "arc133-app-tamper",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "arc133-dep": "github:basmf749/apah#tamper"
+  }
+}
